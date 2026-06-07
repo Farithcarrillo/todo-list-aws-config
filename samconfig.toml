@@ -1,4 +1,4 @@
-﻿version = 0.1
+version = 0.1
 [production.deploy.parameters]
 stack_name = "todo-list-aws-production"
 resolve_s3 = true
